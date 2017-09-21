@@ -1,0 +1,6 @@
+Event	ID	Name			Wwise Object Path	Notes
+	2231306511	Clothes			\Default Work Unit\Clothes	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	386667194	Clothes_Ruffling	C:\Users\Yoshi\Documents\Waking Up\Waking Up_WwiseProject\.cache\Mac\SFX\Shotgun_Blast_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Clothes_Ruffling		179026
+

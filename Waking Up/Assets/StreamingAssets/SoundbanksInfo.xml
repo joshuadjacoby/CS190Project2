@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="11" SoundbankVersion="120">
+	<RootPaths>
+		<ProjectRoot>C:\Users\Josh Jacoby\Projects\Unity\Waking Up\Waking Up_WwiseProject\</ProjectRoot>
+		<SourceFilesRoot>C:\Users\Josh Jacoby\Projects\Unity\Waking Up\Waking Up_WwiseProject\.cache\Windows\</SourceFilesRoot>
+		<SoundBanksRoot>C:\Users\Josh Jacoby\Projects\Unity\Waking Up\Assets\StreamingAssets\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>C:\Users\Josh Jacoby\Projects\Unity\Waking Up\Waking Up_WwiseProject\GeneratedSoundBanks\Windows\</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<StreamedFiles/>
+	<MediaFilesNotInAnyBank/>
+	<SoundBanks>
+		<SoundBank Id="1355168291" Language="SFX">
+			<ObjectPath>Init</ObjectPath>
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+		</SoundBank>
+		<SoundBank Id="3161908922" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\Main</ObjectPath>
+			<ShortName>Main</ShortName>
+			<Path>Main.bnk</Path>
+			<IncludedEvents>
+				<Event Id="3617296692" Name="AlarmStop" ObjectPath="\Events\Default Work Unit\AlarmStop"/>
+				<Event Id="2447011110" Name="Brushing_Teeth" ObjectPath="\Events\Default Work Unit\Brushing_Teeth"/>
+				<Event Id="2231306511" Name="Clothes" ObjectPath="\Events\Default Work Unit\Clothes"/>
+				<Event Id="2376682602" Name="Computer" ObjectPath="\Events\Default Work Unit\Computer"/>
+				<Event Id="2133805280" Name="Dog_Bowl" ObjectPath="\Events\Default Work Unit\Dog_Bowl"/>
+				<Event Id="1877847629" Name="Door" ObjectPath="\Events\Default Work Unit\Door"/>
+				<Event Id="2120052594" Name="Dream" ObjectPath="\Events\Default Work Unit\Dream"/>
+				<Event Id="2385628198" Name="Footsteps" ObjectPath="\Events\Default Work Unit\Footsteps"/>
+				<Event Id="660911522" Name="Sandwich" ObjectPath="\Events\Default Work Unit\Sandwich"/>
+				<Event Id="1653220935" Name="Shower" ObjectPath="\Events\Default Work Unit\Shower"/>
+				<Event Id="580245626" Name="Toilet" ObjectPath="\Events\Default Work Unit\Toilet"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="49226281" Language="SFX">
+					<ShortName>Gasp.wav</ShortName>
+					<Path>SFX\Gasp_9E69E797.wem</Path>
+				</File>
+				<File Id="105371213" Language="SFX">
+					<ShortName>Bark.wav</ShortName>
+					<Path>SFX\Bark_9E69E797.wem</Path>
+				</File>
+				<File Id="114220941" Language="SFX">
+					<ShortName>Slam.wav</ShortName>
+					<Path>SFX\Slam_9E69E797.wem</Path>
+				</File>
+				<File Id="236664432" Language="SFX">
+					<ShortName>Brushing Teeth.wav</ShortName>
+					<Path>SFX\Brushing Teeth_1C29555D.wem</Path>
+				</File>
+				<File Id="246687413" Language="SFX">
+					<ShortName>Alarm Clock.wav</ShortName>
+					<Path>SFX\Alarm Clock_1827EE43.wem</Path>
+				</File>
+				<File Id="248085658" Language="SFX">
+					<ShortName>Door Open.wav</ShortName>
+					<Path>SFX\Door Open_F0EDA4CE.wem</Path>
+				</File>
+				<File Id="250942394" Language="SFX">
+					<ShortName>flight_of_the_bumblebee_2.wav</ShortName>
+					<Path>SFX\flight_of_the_bumblebee_2_9E69E797.wem</Path>
+				</File>
+				<File Id="290258576" Language="SFX">
+					<ShortName>Sigh.wav</ShortName>
+					<Path>SFX\Sigh_9E69E797.wem</Path>
+				</File>
+				<File Id="297681200" Language="SFX">
+					<ShortName>Pee.wav</ShortName>
+					<Path>SFX\Pee_EEDF6075.wem</Path>
+				</File>
+				<File Id="361149136" Language="SFX">
+					<ShortName>Notification.wav</ShortName>
+					<Path>SFX\Notification_9E69E797.wem</Path>
+				</File>
+				<File Id="426118460" Language="SFX">
+					<ShortName>Running Inside.wav</ShortName>
+					<Path>SFX\Running Inside_FE0BCBB3.wem</Path>
+				</File>
+				<File Id="473758958" Language="SFX">
+					<ShortName>Typing.wav</ShortName>
+					<Path>SFX\Typing_BC425DF4.wem</Path>
+				</File>
+				<File Id="488649405" Language="SFX">
+					<ShortName>Running Shower.wav</ShortName>
+					<Path>SFX\Running Shower_8C5F761E.wem</Path>
+				</File>
+				<File Id="504298307" Language="SFX">
+					<ShortName>Zipper.wav</ShortName>
+					<Path>SFX\Zipper_9E69E797.wem</Path>
+				</File>
+				<File Id="537204314" Language="SFX">
+					<ShortName>Alarm Clock.wav</ShortName>
+					<Path>SFX\Alarm Clock_4B8CC0C5.wem</Path>
+				</File>
+				<File Id="604462755" Language="SFX">
+					<ShortName>Spit2.wav</ShortName>
+					<Path>SFX\Spit2_9E69E797.wem</Path>
+				</File>
+				<File Id="605827467" Language="SFX">
+					<ShortName>Pouring.wav</ShortName>
+					<Path>SFX\Pouring_BB854C4F.wem</Path>
+				</File>
+				<File Id="642465683" Language="SFX">
+					<ShortName>Dream.wav</ShortName>
+					<Path>SFX\Dream_4F8020CC.wem</Path>
+				</File>
+				<File Id="680073061" Language="SFX">
+					<ShortName>Faucet.wav</ShortName>
+					<Path>SFX\Faucet_AC183C49.wem</Path>
+				</File>
+				<File Id="793266248" Language="SFX">
+					<ShortName>Ruffling.wav</ShortName>
+					<Path>SFX\Ruffling_9E69E797.wem</Path>
+				</File>
+				<File Id="838836853" Language="SFX">
+					<ShortName>Alarm Clock.wav</ShortName>
+					<Path>SFX\Alarm Clock_E4C1E111.wem</Path>
+				</File>
+				<File Id="935023284" Language="SFX">
+					<ShortName>Bite.wav</ShortName>
+					<Path>SFX\Bite_9E69E797.wem</Path>
+				</File>
+				<File Id="1031617128" Language="SFX">
+					<ShortName>Yawn.wav</ShortName>
+					<Path>SFX\Yawn_9E69E797.wem</Path>
+				</File>
+				<File Id="1055885616" Language="SFX">
+					<ShortName>Shower Squeak.wav</ShortName>
+					<Path>SFX\Shower Squeak_8073281C.wem</Path>
+				</File>
+				<File Id="1068891046" Language="SFX">
+					<ShortName>Dream.wav</ShortName>
+					<Path>SFX\Dream_46D995B9.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

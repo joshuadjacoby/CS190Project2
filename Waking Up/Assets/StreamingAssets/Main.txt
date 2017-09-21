@@ -1,0 +1,40 @@
+Event	ID	Name			Wwise Object Path	Notes
+	580245626	Toilet			\Default Work Unit\Toilet	
+	660911522	Sandwich			\Default Work Unit\Sandwich	
+	1653220935	Shower			\Default Work Unit\Shower	
+	1877847629	Door			\Default Work Unit\Door	
+	2120052594	Dream			\Default Work Unit\Dream	
+	2133805280	Dog_Bowl			\Default Work Unit\Dog_Bowl	
+	2231306511	Clothes			\Default Work Unit\Clothes	
+	2376682602	Computer			\Default Work Unit\Computer	
+	2385628198	Footsteps			\Default Work Unit\Footsteps	
+	2447011110	Brushing_Teeth			\Default Work Unit\Brushing_Teeth	
+	3617296692	AlarmStop			\Default Work Unit\AlarmStop	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	49226281	Gasp	C:\Users\Josh Jacoby\Projects\Unity\Waking Up\Waking Up_WwiseProject\.cache\Windows\SFX\Gasp_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Gasp		219200
+	105371213	Bark	C:\Users\Josh Jacoby\Projects\Unity\Waking Up\Waking Up_WwiseProject\.cache\Windows\SFX\Bark_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Bark		98368
+	114220941	Snooze	C:\Users\Josh Jacoby\Projects\Unity\Waking Up\Waking Up_WwiseProject\.cache\Windows\SFX\Slam_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Snooze		102464
+	236664432	Brushing	C:\Users\Josh Jacoby\Projects\Unity\Waking Up\Waking Up_WwiseProject\.cache\Windows\SFX\Brushing Teeth_1C29555D.wem		\Actor-Mixer Hierarchy\Default Work Unit\Brushing		646000
+	246687413	AlarmInOut	C:\Users\Josh Jacoby\Projects\Unity\Waking Up\Waking Up_WwiseProject\.cache\Windows\SFX\Alarm Clock_1827EE43.wem		\Actor-Mixer Hierarchy\Default Work Unit\AlarmInOut		883420
+	248085658	Door_Open	C:\Users\Josh Jacoby\Projects\Unity\Waking Up\Waking Up_WwiseProject\.cache\Windows\SFX\Door Open_F0EDA4CE.wem		\Actor-Mixer Hierarchy\Default Work Unit\Door_Open		193932
+	250942394	FlightOfTheBumblebee	C:\Users\Josh Jacoby\Projects\Unity\Waking Up\Waking Up_WwiseProject\.cache\Windows\SFX\flight_of_the_bumblebee_2_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\FlightOfTheBumblebee		13999424
+	290258576	Sigh	C:\Users\Josh Jacoby\Projects\Unity\Waking Up\Waking Up_WwiseProject\.cache\Windows\SFX\Sigh_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Sigh		407616
+	297681200	Pee	C:\Users\Josh Jacoby\Projects\Unity\Waking Up\Waking Up_WwiseProject\.cache\Windows\SFX\Pee_EEDF6075.wem		\Actor-Mixer Hierarchy\Default Work Unit\Pee		529648
+	361149136	Notification	C:\Users\Josh Jacoby\Projects\Unity\Waking Up\Waking Up_WwiseProject\.cache\Windows\SFX\Notification_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Notification		192576
+	426118460	Footsteps	C:\Users\Josh Jacoby\Projects\Unity\Waking Up\Waking Up_WwiseProject\.cache\Windows\SFX\Running Inside_FE0BCBB3.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps		87924
+	473758958	Typing	C:\Users\Josh Jacoby\Projects\Unity\Waking Up\Waking Up_WwiseProject\.cache\Windows\SFX\Typing_BC425DF4.wem		\Actor-Mixer Hierarchy\Default Work Unit\Typing		541028
+	488649405	Running_Shower	C:\Users\Josh Jacoby\Projects\Unity\Waking Up\Waking Up_WwiseProject\.cache\Windows\SFX\Running Shower_8C5F761E.wem		\Actor-Mixer Hierarchy\Default Work Unit\Running_Shower		909892
+	504298307	Zipper	C:\Users\Josh Jacoby\Projects\Unity\Waking Up\Waking Up_WwiseProject\.cache\Windows\SFX\Zipper_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Zipper		77888
+	537204314	Alarm	C:\Users\Josh Jacoby\Projects\Unity\Waking Up\Waking Up_WwiseProject\.cache\Windows\SFX\Alarm Clock_4B8CC0C5.wem		\Actor-Mixer Hierarchy\Default Work Unit\Alarm		3098688
+	604462755	Spit	C:\Users\Josh Jacoby\Projects\Unity\Waking Up\Waking Up_WwiseProject\.cache\Windows\SFX\Spit2_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Spit		321600
+	605827467	Pouring	C:\Users\Josh Jacoby\Projects\Unity\Waking Up\Waking Up_WwiseProject\.cache\Windows\SFX\Pouring_BB854C4F.wem		\Actor-Mixer Hierarchy\Default Work Unit\Pouring		755068
+	642465683	DreamFull	C:\Users\Josh Jacoby\Projects\Unity\Waking Up\Waking Up_WwiseProject\.cache\Windows\SFX\Dream_4F8020CC.wem		\Actor-Mixer Hierarchy\Default Work Unit\DreamFull		4114496
+	680073061	Faucet	C:\Users\Josh Jacoby\Projects\Unity\Waking Up\Waking Up_WwiseProject\.cache\Windows\SFX\Faucet_AC183C49.wem		\Actor-Mixer Hierarchy\Default Work Unit\Faucet		562276
+	793266248	Clothes_Ruffling	C:\Users\Josh Jacoby\Projects\Unity\Waking Up\Waking Up_WwiseProject\.cache\Windows\SFX\Ruffling_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Clothes_Ruffling		84032
+	838836853	AlarmFadeIn	C:\Users\Josh Jacoby\Projects\Unity\Waking Up\Waking Up_WwiseProject\.cache\Windows\SFX\Alarm Clock_E4C1E111.wem		\Actor-Mixer Hierarchy\Default Work Unit\AlarmFadeIn		1234012
+	935023284	Bite	C:\Users\Josh Jacoby\Projects\Unity\Waking Up\Waking Up_WwiseProject\.cache\Windows\SFX\Bite_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Bite		129088
+	1031617128	Yawn	C:\Users\Josh Jacoby\Projects\Unity\Waking Up\Waking Up_WwiseProject\.cache\Windows\SFX\Yawn_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Yawn		327744
+	1055885616	Shower_Squeak	C:\Users\Josh Jacoby\Projects\Unity\Waking Up\Waking Up_WwiseProject\.cache\Windows\SFX\Shower Squeak_8073281C.wem		\Actor-Mixer Hierarchy\Default Work Unit\Shower_Squeak		73628
+	1068891046	Dream	C:\Users\Josh Jacoby\Projects\Unity\Waking Up\Waking Up_WwiseProject\.cache\Windows\SFX\Dream_46D995B9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Dream		2272928
+
