@@ -1,4 +1,4 @@
-# CS190Project2
+# Waking Up
 
 Project made for Sound Design class using Unity and Wwise.
 
